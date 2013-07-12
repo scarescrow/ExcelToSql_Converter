@@ -1,0 +1,5 @@
+C:\Users\Sagnik\documents\visual studio 2010\Projects\FileUploader\FileUploader\bin\FileUploader.dll
+C:\Users\Sagnik\documents\visual studio 2010\Projects\FileUploader\FileUploader\bin\FileUploader.pdb
+C:\Users\Sagnik\documents\visual studio 2010\Projects\FileUploader\FileUploader\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sagnik\documents\visual studio 2010\Projects\FileUploader\FileUploader\obj\Debug\FileUploader.dll
+C:\Users\Sagnik\documents\visual studio 2010\Projects\FileUploader\FileUploader\obj\Debug\FileUploader.pdb

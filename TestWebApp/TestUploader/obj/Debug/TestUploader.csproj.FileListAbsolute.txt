@@ -1,0 +1,5 @@
+c:\users\sagnik\documents\visual studio 2010\Projects\TestUploader\TestUploader\bin\TestUploader.dll
+c:\users\sagnik\documents\visual studio 2010\Projects\TestUploader\TestUploader\bin\TestUploader.pdb
+c:\users\sagnik\documents\visual studio 2010\Projects\TestUploader\TestUploader\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sagnik\documents\visual studio 2010\Projects\TestUploader\TestUploader\obj\Debug\TestUploader.dll
+c:\users\sagnik\documents\visual studio 2010\Projects\TestUploader\TestUploader\obj\Debug\TestUploader.pdb
